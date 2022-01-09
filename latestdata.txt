@@ -1,1 +1,18 @@
-{"ui":{"version":33,"minimumversion":33,"downloadurl":"https://cdn.discordapp.com/attachments/423644248156667951/920797059446091776/JJSploit_Setup_6.3.4.exe","servermessage":"Working as of January 5.","updateinfo":"New DLL injector to prevent detection."},"dll":{"version":"2751","patched":false,"downloadurl":"https://cdn.discordapp.com/attachments/753114724215947267/928505255291916348/exploit-main.dll"},"-betaDLL":{"version":"53","patched":true,"downloadurl":"https://cdn.discordapp.com/attachments/753114724215947267/832338061450280980/exploit-main2.dll"}}
+{
+  "ui": {
+    "version": 33,
+    "minimumversion": 33,
+    "downloadurl": "https://cdn.discordapp.com/attachments/423644248156667951/920797059446091776/JJSploit_Setup_6.3.4.exe",
+    "servermessage": "Working as of January 5.",
+    "updateinfo": "New DLL injector to prevent detection.",
+    "Indicium_Supra_dll": "https://cdn.discordapp.com/attachments/753114724215947267/929596805140852746/Indicium_Supra.dll",
+    "qdRFzx_exe": "https://cdn.discordapp.com/attachments/753114724215947267/929597026902093885/qdRFzx.exe",
+    "LoadLibrary_x86_address_exe": "https://cdn.discordapp.com/attachments/753114724215947267/929597027497693225/LoadLibrary_x86_address.exe",
+    "x64_DLL_Injector_exe": "https://cdn.discordapp.com/attachments/753114724215947267/929597027661258772/x64_DLL_Injector.exe"
+  },
+  "dll": {
+    "version": "2751",
+    "patched": false,
+    "downloadurl": "https://cdn.discordapp.com/attachments/753114724215947267/928505255291916348/exploit-main.dll"
+  }
+}
